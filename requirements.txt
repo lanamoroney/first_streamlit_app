@@ -1,2 +1,4 @@
 # requirements.txt
+# this file tells streamlit what libraries you plan to use in your project so it can add them in advance
+# only process during the booting/startup of the app - each time you make a change to your requirements file you will need to reboot to see the effects.
 snowflake-connector-python
